@@ -1,4 +1,6 @@
 # 🌍 WORLDVIEW — Global Intelligence Command Console
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/69c0a89e-59fa-4b54-bf7b-6251500619ea" />
+
 
 A cinematic intelligence OS dashboard inspired by the video reference — featuring a 3D globe, layer modes (CRT, NVG, FLIR, AI), real-time mock data, and full tactical HUD aesthetics.
 
